@@ -1,8 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { CategoryType, PricesType, TierType } from "./types";
 
-const baseBoxPrice = 400;
-
 interface TableProps {
   categories_: CategoryType[];
   prices_: PricesType;

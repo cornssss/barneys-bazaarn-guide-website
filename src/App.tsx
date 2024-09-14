@@ -28,7 +28,7 @@ function App() {
 
   return (
     <div className="container">
-      <h1>Item Data Table</h1>
+      <h1>Barney's Bazaarn Crafting Recipes</h1>
       <Table categories_={categories} prices_={prices} />
     </div>
   );
