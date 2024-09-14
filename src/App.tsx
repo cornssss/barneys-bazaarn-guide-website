@@ -37,7 +37,7 @@ function App() {
 
   return (
     <div className="container">
-      <h1>Barney's Bazaarn Crafting Recipes v1.17</h1>
+      <h1>Barney's Bazaarn Crafting Recipes v2.1</h1>
       <p>Reload the page to update the prices. Enjoy!</p>
       <p>
         Contact me on discord for feedbacks and suggestions :){" "}
