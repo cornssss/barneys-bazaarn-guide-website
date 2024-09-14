@@ -134,7 +134,7 @@ const Table: React.FC<TableProps> = ({ categories_, prices_ }) => {
                     ))}
                     <tr>
                       <th colSpan={3}>Overall Price</th>
-                      <th>{tier.Price}</th>
+                      <th>{tier.Price * tier.Multiplier}</th>
                     </tr>
                     <tr>
                       <th colSpan={3}>Tier Price / Points</th>
