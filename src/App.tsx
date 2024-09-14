@@ -34,7 +34,7 @@ function App() {
         no public endpoints available yet. Please pixels :(
       </p>
       <p>
-        Contact me on discord for feedback and suggestions :){" "}
+        Contact me on discord for feedbacks and suggestions :){" "}
         <span style={{ fontWeight: "bold", fontSize: 20 }}>mira.gg</span>
       </p>
       <Table categories_={categories} prices_={prices} />
