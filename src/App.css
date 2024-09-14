@@ -1,4 +1,7 @@
 /* General styles for the container */
+body {
+  background-color: #2e2e2e; /* Dark background */
+}
 .container {
   margin: 0 auto;
   padding: 20px;
