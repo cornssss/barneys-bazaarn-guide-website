@@ -1,0 +1,1315 @@
+[
+  {
+    "Name": "Farming",
+    "Tiers": [
+      {
+        "Tier": 1,
+        "Points": 1,
+        "Multiplier": 1,
+        "Price": 0,
+        "PriceOverPoints": 0,
+        "Items": [
+          {
+            "id": "itm_basebox",
+            "Name": "Base Box",
+            "Quantity": 1,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_grainbow",
+            "Name": "Grainbow",
+            "Quantity": 3,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_grumpkinFruit",
+            "Name": "Blue Grumpkin",
+            "Quantity": 3,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_popberryFruit",
+            "Name": "Popberry",
+            "Quantity": 3,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_wintermintFruit",
+            "Name": "Wintermint",
+            "Quantity": 3,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          }
+        ]
+      },
+      {
+        "Tier": 2,
+        "Points": 2,
+        "Multiplier": 1,
+        "Price": 0,
+        "PriceOverPoints": 0,
+        "Items": [
+          {
+            "id": "itm_tier1box",
+            "Name": "Tier 1 Box",
+            "Quantity": 1,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_muckchuck",
+            "Name": "Muckchuck",
+            "Quantity": 3,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_coffeefruit",
+            "Name": "Java berry",
+            "Quantity": 3,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_cloverFruit",
+            "Name": "Clover",
+            "Quantity": 3,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_tenta",
+            "Name": "Astracactus",
+            "Quantity": 3,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          }
+        ]
+      },
+      {
+        "Tier": 3,
+        "Points": 4,
+        "Multiplier": 1,
+        "Price": 0,
+        "PriceOverPoints": 0,
+        "Items": [
+          {
+            "id": "itm_tier2box",
+            "Name": "Tier 2 Box",
+            "Quantity": 1,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_slothmato",
+            "Name": "Slothmato",
+            "Quantity": 9,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_napricot",
+            "Name": "Napricot",
+            "Quantity": 9,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_cubecumber",
+            "Name": "Cubecumber",
+            "Quantity": 9,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          }
+        ]
+      },
+      {
+        "Tier": 4,
+        "Points": 8,
+        "Multiplier": 1,
+        "Price": 0,
+        "PriceOverPoints": 0,
+        "Items": [
+          {
+            "id": "itm_tier3box",
+            "Name": "Tier 3 Box",
+            "Quantity": 1,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_scarrotFruit",
+            "Name": "Scarrot",
+            "Quantity": 10,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_cottoncandyFruit_blue",
+            "Name": "Bluzberry Cotton Candy",
+            "Quantity": 10,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_butterberry",
+            "Name": "Butterberry",
+            "Quantity": 10,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "",
+            "Name": "itm_cottoncandyFruit_pink",
+            "Quantity": 10,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Mining",
+    "Tiers": [
+      {
+        "Tier": 1,
+        "Points": 1,
+        "Multiplier": 1,
+        "Price": 0,
+        "PriceOverPoints": 0,
+        "Items": [
+          {
+            "id": "itm_basebox",
+            "Name": "Base Box",
+            "Quantity": 1,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_roughstone_01",
+            "Name": "Clay Matrix",
+            "Quantity": 99,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_metalore_01",
+            "Name": "Copperite Ore",
+            "Quantity": 29,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          }
+        ]
+      },
+      {
+        "Tier": 2,
+        "Points": 2,
+        "Multiplier": 1,
+        "Price": 0,
+        "PriceOverPoints": 0,
+        "Items": [
+          {
+            "id": "itm_tier1box",
+            "Name": "Tier 1 Box",
+            "Quantity": 1,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_metalore_02",
+            "Name": "Bronzenite Ore",
+            "Quantity": 99,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_roughstone_02",
+            "Name": "Marbleite Matrix",
+            "Quantity": 99,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_mine_kit_02",
+            "Name": "Improved Mine Kit",
+            "Quantity": 2,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          }
+        ]
+      },
+      {
+        "Tier": 3,
+        "Points": 4,
+        "Multiplier": 1,
+        "Price": 0,
+        "PriceOverPoints": 0,
+        "Items": [
+          {
+            "id": "itm_tier2box",
+            "Name": "Tier 2 Box",
+            "Quantity": 1,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_metalore_03",
+            "Name": "Irontite Ore",
+            "Quantity": 21,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_roughstone_03",
+            "Name": "Bedrock Matrix",
+            "Quantity": 21,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          }
+        ]
+      },
+      {
+        "Tier": 4,
+        "Points": 8,
+        "Multiplier": 1,
+        "Price": 0,
+        "PriceOverPoints": 0,
+        "Items": [
+          {
+            "id": "itm_tier3box",
+            "Name": "Tier 3 Box",
+            "Quantity": 1,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_metalore_04",
+            "Name": "Adamaxium Ore",
+            "Quantity": 36,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_roughstone_04",
+            "Name": "Claricite Matrix",
+            "Quantity": 36,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Business",
+    "Tiers": [
+      {
+        "Tier": 1,
+        "Points": 1,
+        "Multiplier": 1,
+        "Price": 0,
+        "PriceOverPoints": 0,
+        "Items": [
+          {
+            "id": "itm_basebox",
+            "Name": "Base Box",
+            "Quantity": 1,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_popberrywine",
+            "Name": "Popberry Wine",
+            "Quantity": 1,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          }
+        ]
+      },
+      {
+        "Tier": 2,
+        "Points": 2,
+        "Multiplier": 1,
+        "Price": 0,
+        "PriceOverPoints": 0,
+        "Items": [
+          {
+            "id": "itm_tier1box",
+            "Name": "Tier 1 Box",
+            "Quantity": 1,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_wintermint_whiskey",
+            "Name": "Watermint Whiskey Wine",
+            "Quantity": 1,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          }
+        ]
+      },
+      {
+        "Tier": 3,
+        "Points": 4,
+        "Multiplier": 1,
+        "Price": 0,
+        "PriceOverPoints": 0,
+        "Items": [
+          {
+            "id": "itm_tier2box",
+            "Name": "Tier 2 Box",
+            "Quantity": 1,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_tentacactus_tequila",
+            "Name": "Astracactus Tequila Wine",
+            "Quantity": 1,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          }
+        ]
+      },
+      {
+        "Tier": 4,
+        "Points": 8,
+        "Multiplier": 1,
+        "Price": 0,
+        "PriceOverPoints": 0,
+        "Items": [
+          {
+            "id": "itm_tier3box",
+            "Name": "Tier 3 Box",
+            "Quantity": 1,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_scarrotwine",
+            "Name": "Scarrot Wine",
+            "Quantity": 1,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Wood Working",
+    "Tiers": [
+      {
+        "Tier": 1,
+        "Points": 1,
+        "Multiplier": 1,
+        "Price": 0,
+        "PriceOverPoints": 0,
+        "Items": [
+          {
+            "id": "itm_basebox",
+            "Name": "Base Box",
+            "Quantity": 1,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_woodplank_01",
+            "Name": "Whittlewood Plank",
+            "Quantity": 3,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_tree_01",
+            "Name": "Whittlewood Tree",
+            "Quantity": 3,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          }
+        ]
+      },
+      {
+        "Tier": 2,
+        "Points": 2,
+        "Multiplier": 1,
+        "Price": 0,
+        "PriceOverPoints": 0,
+        "Items": [
+          {
+            "id": "itm_tier1box",
+            "Name": "Tier 1 Box",
+            "Quantity": 1,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_woodplank_02",
+            "Name": "Craftbark Plank",
+            "Quantity": 2,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_tree_02",
+            "Name": "Craftbark Tree",
+            "Quantity": 2,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          }
+        ]
+      },
+      {
+        "Tier": 3,
+        "Points": 4,
+        "Multiplier": 1,
+        "Price": 0,
+        "PriceOverPoints": 0,
+        "Items": [
+          {
+            "id": "itm_tier2box",
+            "Name": "Tier 2 Box",
+            "Quantity": 1,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_woodplank_03",
+            "Name": "Sawstump Plank",
+            "Quantity": 5,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          }
+        ]
+      },
+      {
+        "Tier": 4,
+        "Points": 8,
+        "Multiplier": 1,
+        "Price": 0,
+        "PriceOverPoints": 0,
+        "Items": [
+          {
+            "id": "itm_tier3box",
+            "Name": "Tier 3 Box",
+            "Quantity": 1,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_woodplank_04",
+            "Name": "Borebranch Plank",
+            "Quantity": 9,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Stone Shaping",
+    "Tiers": [
+      {
+        "Tier": 1,
+        "Points": 1,
+        "Multiplier": 1,
+        "Price": 0,
+        "PriceOverPoints": 0,
+        "Items": [
+          {
+            "id": "itm_basebox",
+            "Name": "Base Box",
+            "Quantity": 1,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_brick_01",
+            "Name": "Clay Brick",
+            "Quantity": 2,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_stonepowder01",
+            "Name": "Clay Powder",
+            "Quantity": 2,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          }
+        ]
+      },
+      {
+        "Tier": 2,
+        "Points": 2,
+        "Multiplier": 1,
+        "Price": 0,
+        "PriceOverPoints": 0,
+        "Items": [
+          {
+            "id": "itm_tier1box",
+            "Name": "Tier 1 Box",
+            "Quantity": 1,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_stonepowder02",
+            "Name": "Marbleite Powder",
+            "Quantity": 1,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_brick_02",
+            "Name": "Marbleite Brick",
+            "Quantity": 2,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          }
+        ]
+      },
+      {
+        "Tier": 3,
+        "Points": 4,
+        "Multiplier": 1,
+        "Price": 0,
+        "PriceOverPoints": 0,
+        "Items": [
+          {
+            "id": "itm_tier2box",
+            "Name": "Tier 2 Box",
+            "Quantity": 1,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_stonepowder03",
+            "Name": "Bedrock Powder",
+            "Quantity": 1,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_brick_03",
+            "Name": "Bedrock Brick",
+            "Quantity": 1,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          }
+        ]
+      },
+      {
+        "Tier": 4,
+        "Points": 8,
+        "Multiplier": 1,
+        "Price": 0,
+        "PriceOverPoints": 0,
+        "Items": [
+          {
+            "id": "itm_tier3box",
+            "Name": "Tier 3 Box",
+            "Quantity": 1,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_stonepowder04",
+            "Name": "Claricite Powder",
+            "Quantity": 1,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_brick_04",
+            "Name": "Claricite Brick",
+            "Quantity": 2,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Cooking",
+    "Tiers": [
+      {
+        "Tier": 1,
+        "Points": 1,
+        "Multiplier": 1,
+        "Price": 0,
+        "PriceOverPoints": 0,
+        "Items": [
+          {
+            "id": "itm_basebox",
+            "Name": "Base Box",
+            "Quantity": 1,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_jam_popberry",
+            "Name": "Popberry Jam",
+            "Quantity": 4,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_flour",
+            "Name": "Grainbow Flour",
+            "Quantity": 4,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_Vinegar",
+            "Name": "Vinegar",
+            "Quantity": 2,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_orangegrumpkinpuree",
+            "Name": "Orange Grumpkin Puree",
+            "Quantity": 2,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          }
+        ]
+      },
+      {
+        "Tier": 2,
+        "Points": 2,
+        "Multiplier": 1,
+        "Price": 0,
+        "PriceOverPoints": 0,
+        "Items": [
+          {
+            "id": "itm_tier1box",
+            "Name": "Tier 1 Box",
+            "Quantity": 1,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_coffeefruitjam",
+            "Name": "Java Jam",
+            "Quantity": 2,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_muckchuckfruitjam",
+            "Name": "Muckchuck Jam",
+            "Quantity": 2,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_tatoscramble",
+            "Name": "Tato Scramble",
+            "Quantity": 1,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          }
+        ]
+      },
+      {
+        "Tier": 3,
+        "Points": 4,
+        "Multiplier": 1,
+        "Price": 0,
+        "PriceOverPoints": 0,
+        "Items": [
+          {
+            "id": "itm_tier2box",
+            "Name": "Tier 2 Box",
+            "Quantity": 1,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_cubecumberrelish",
+            "Name": "Cubecumber Relish",
+            "Quantity": 2,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_napricotfruitjam",
+            "Name": "Napricot Jam",
+            "Quantity": 1,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_scarrotpuree",
+            "Name": "Scarrot Puree",
+            "Quantity": 1,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_slothmatopaste",
+            "Name": "Slothmato Paste",
+            "Quantity": 1,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          }
+        ]
+      },
+      {
+        "Tier": 4,
+        "Points": 8,
+        "Multiplier": 1,
+        "Price": 0,
+        "PriceOverPoints": 0,
+        "Items": [
+          {
+            "id": "itm_tier3box",
+            "Name": "Tier 3 Box",
+            "Quantity": 1,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_butterberryjam",
+            "Name": "Butterberry Jam",
+            "Quantity": 1,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_scarrotcake",
+            "Name": "Slice of Scarrot Cake",
+            "Quantity": 1,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_scarrotPie",
+            "Name": "Scarrot Pie",
+            "Quantity": 1,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Metal Working",
+    "Tiers": [
+      {
+        "Tier": 1,
+        "Points": 1,
+        "Multiplier": 1,
+        "Price": 0,
+        "PriceOverPoints": 0,
+        "Items": [
+          {
+            "id": "itm_basebox",
+            "Name": "Base Box",
+            "Quantity": 1,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_metalbar_01",
+            "Name": "Copperite Bar",
+            "Quantity": 4,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_metalworking_kit_01",
+            "Name": "Basic Metalworking Kit",
+            "Quantity": 1,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          }
+        ]
+      },
+      {
+        "Tier": 2,
+        "Points": 2,
+        "Multiplier": 1,
+        "Price": 0,
+        "PriceOverPoints": 0,
+        "Items": [
+          {
+            "id": "itm_tier1box",
+            "Name": "Tier 1 Box",
+            "Quantity": 1,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_metalbar_02",
+            "Name": "Bronzenite Bar",
+            "Quantity": 3,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_metalworking_kit_02",
+            "Name": "Improved Metalworking Kit",
+            "Quantity": 1,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          }
+        ]
+      },
+      {
+        "Tier": 3,
+        "Points": 4,
+        "Multiplier": 1,
+        "Price": 0,
+        "PriceOverPoints": 0,
+        "Items": [
+          {
+            "id": "itm_tier2box",
+            "Name": "Tier 2 Box",
+            "Quantity": 1,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_metalbar_03",
+            "Name": "Irontite Bar",
+            "Quantity": 2,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          }
+        ]
+      },
+      {
+        "Tier": 4,
+        "Points": 8,
+        "Multiplier": 1,
+        "Price": 0,
+        "PriceOverPoints": 0,
+        "Items": [
+          {
+            "id": "itm_tier3box",
+            "Name": "Tier 3 Box",
+            "Quantity": 1,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_metalbar_04",
+            "Name": "Adamaxium Bar",
+            "Quantity": 6,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Animal Care",
+    "Tiers": [
+      {
+        "Tier": 1,
+        "Points": 1,
+        "Multiplier": 1,
+        "Price": 0,
+        "PriceOverPoints": 0,
+        "Items": [
+          {
+            "id": "itm_basebox",
+            "Name": "Base Box",
+            "Quantity": 1,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_egg",
+            "Name": "Egg",
+            "Quantity": 20,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_honey",
+            "Name": "Honey",
+            "Quantity": 20,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_silkfiber",
+            "Name": "Silk Fiber",
+            "Quantity": 20,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          }
+        ]
+      },
+      {
+        "Tier": 2,
+        "Points": 2,
+        "Multiplier": 1,
+        "Price": 0,
+        "PriceOverPoints": 0,
+        "Items": [
+          {
+            "id": "itm_tier1box",
+            "Name": "Tier 1 Box",
+            "Quantity": 1,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_beeswax",
+            "Name": "Wax",
+            "Quantity": 15,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_silkslugslime",
+            "Name": "Silk Slug Slime",
+            "Quantity": 6,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_seltsamEgg",
+            "Name": "Seltsam Egg",
+            "Quantity": 3,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          }
+        ]
+      },
+      {
+        "Tier": 3,
+        "Points": 4,
+        "Multiplier": 1,
+        "Price": 0,
+        "PriceOverPoints": 0,
+        "Items": [
+          {
+            "id": "itm_tier2box",
+            "Name": "Tier 2 Box",
+            "Quantity": 1,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_eggsplosive",
+            "Name": "Silk Slug Spider",
+            "Quantity": 99,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_eggsplosive",
+            "Name": "Eggsplosive",
+            "Quantity": 6,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_queenbee",
+            "Name": "Queen Bee",
+            "Quantity": 1,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          }
+        ]
+      },
+      {
+        "Tier": 4,
+        "Points": 8,
+        "Multiplier": 1,
+        "Price": 0,
+        "PriceOverPoints": 0,
+        "Items": [
+          {
+            "id": "itm_tier3box",
+            "Name": "Tier 3 Box",
+            "Quantity": 1,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_turd",
+            "Name": "Cow Turd",
+            "Quantity": 8,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_milk",
+            "Name": "Cow Milk",
+            "Quantity": 1,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_petfood",
+            "Name": "Pet Treat",
+            "Quantity": 5,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Forestry",
+    "Tiers": [
+      {
+        "Tier": 1,
+        "Points": 1,
+        "Multiplier": 1,
+        "Price": 0,
+        "PriceOverPoints": 0,
+        "Items": [
+          {
+            "id": "itm_basebox",
+            "Name": "Base Box",
+            "Quantity": 1,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_woodlog_01",
+            "Name": "Whittlewood Log",
+            "Quantity": 8,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_tree_sap",
+            "Name": "Sap",
+            "Quantity": 1,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          }
+        ]
+      },
+      {
+        "Tier": 2,
+        "Points": 2,
+        "Multiplier": 1,
+        "Price": 0,
+        "PriceOverPoints": 0,
+        "Items": [
+          {
+            "id": "itm_tier1box",
+            "Name": "Tier 1 Box",
+            "Quantity": 1,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_woodlog_02",
+            "Name": "Craftbark Log",
+            "Quantity": 24,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_tree_sap",
+            "Name": "Sap",
+            "Quantity": 6,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          }
+        ]
+      },
+      {
+        "Tier": 3,
+        "Points": 4,
+        "Multiplier": 1,
+        "Price": 0,
+        "PriceOverPoints": 0,
+        "Items": [
+          {
+            "id": "itm_tier2box",
+            "Name": "Tier 2 Box",
+            "Quantity": 1,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_woodlog_03",
+            "Name": "Sawstump Log",
+            "Quantity": 36,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_tree_sap",
+            "Name": "Sap",
+            "Quantity": 12,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          }
+        ]
+      },
+      {
+        "Tier": 4,
+        "Points": 8,
+        "Multiplier": 1,
+        "Price": 0,
+        "PriceOverPoints": 0,
+        "Items": [
+          {
+            "id": "itm_tier3box",
+            "Name": "Tier 3 Box",
+            "Quantity": 1,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_woodlog_04",
+            "Name": "Borebranch Log",
+            "Quantity": 48,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_tree_sap",
+            "Name": "Sap",
+            "Quantity": 18,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          }
+        ]
+      }
+    ]
+  }
+]
