@@ -1,10 +1,10 @@
-/* src/App.css */
-
 /* General styles for the container */
 .container {
   margin: 0 auto;
   padding: 20px;
   max-width: 1200px; /* Adjust the max-width as needed */
+  background-color: #2e2e2e; /* Dark background */
+  color: #e0e0e0; /* Light text color */
 }
 
 /* Table styles */
@@ -14,15 +14,11 @@ table {
   margin-bottom: 20px;
 }
 
+/* Table header and cell styles */
 th,
 td {
-  /* border: 1px solid #ddd; */
   padding: 8px;
   text-align: left;
-}
-
-th {
-  /* background-color: #f4f4f4; */
 }
 
 /* Fixed width for the first column */
@@ -32,12 +28,17 @@ td:first-child {
 }
 
 /* Style for table rows */
+th {
+  background-color: #3e3e3e; /* Darker header background */
+  color: #c0c0c0; /* Light header text */
+}
+
 tr:nth-child(even) {
-  /* background-color: #f9f9f9; */
+  background-color: #3a3a3a; /* Slightly darker row background */
 }
 
 tr:hover {
-  background-color: #ddd;
+  background-color: #555; /* Hover effect for rows */
 }
 
 /* Responsive styling */
@@ -53,12 +54,16 @@ tr:hover {
     white-space: nowrap;
   }
 }
+
+/* Multiplier input styles */
 .multiplier-input {
   padding: 8px;
-  border: 1px solid #ccc;
+  border: 1px solid #555; /* Dark border */
   border-radius: 4px;
   width: 100px;
   font-size: 16px;
   margin-right: 10px;
   margin-bottom: 10px;
+  background-color: #444; /* Darker input background */
+  color: #fff; /* Light text color */
 }
