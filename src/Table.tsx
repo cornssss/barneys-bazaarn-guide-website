@@ -101,6 +101,7 @@ const Table: React.FC<TableProps> = ({ categories_, prices_ }) => {
                     }}
                   >
                     <tr>
+                      <th></th>
                       <th>Name</th>
                       <th>Current Price</th>
                       <th>Total Quantity</th>
@@ -110,6 +111,15 @@ const Table: React.FC<TableProps> = ({ categories_, prices_ }) => {
                   <tbody>
                     {tier.Items.map((item, itemIndex) => (
                       <tr key={itemIndex}>
+                        <td>
+                          <img
+                            src={item.Icon}
+                            style={{
+                              width: 20,
+                              height: 20,
+                            }}
+                          />
+                        </td>
                         <td>{item.Name}</td>
                         <td>{item.Price}</td>
                         <td>{item.totalQuantity}</td>
@@ -117,11 +127,13 @@ const Table: React.FC<TableProps> = ({ categories_, prices_ }) => {
                       </tr>
                     ))}
                     <tr>
-                      <th colSpan={3}>Overall Price</th>
+                      <th colSpan={3}> </th>
+                      <th>Overall Price</th>
                       <th>{tier.Price * tier.Multiplier}</th>
                     </tr>
                     <tr>
-                      <th colSpan={3}>Tier Price / Points</th>
+                      <th colSpan={3}> </th>
+                      <th colSpan={1}>Tier Price / Points</th>
                       <th>{tier.Price / tier.Points}</th>
                     </tr>
                   </tbody>

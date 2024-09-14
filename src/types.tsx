@@ -20,6 +20,7 @@ export interface ItemType {
   Price: number;
   totalQuantity: number;
   totalPrice: number;
+  Icon: string;
 }
 
 export interface PricesType {
