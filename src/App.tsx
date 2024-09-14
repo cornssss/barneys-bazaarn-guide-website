@@ -6,6 +6,7 @@ import Table from "./Table";
 function App() {
   const [categories, setCategories] = useState<CategoryType[] | null>(null);
   const [prices, setPrices] = useState<PricesType | null>(null);
+  const [market, setMarket] = useState(null);
 
   useEffect(() => {
     fetch("/categories.json")
@@ -17,6 +18,11 @@ function App() {
       .then((response) => response.json())
       .then((prices) => setPrices(prices))
       .catch((error) => console.error("Error fetching prices:", error));
+
+    //     fetch(api + market === null ? 1 : 0)
+    //       .then((response) => response.json())
+    //       .then((prices) => setPrices(prices))
+    //       .catch((error) => console.error("Error fetching prices:", error));
   }, []);
 
   if (categories === null || prices === null)
@@ -30,8 +36,8 @@ function App() {
     <div className="container">
       <h1>Barney's Bazaarn Crafting Recipes v1.17</h1>
       <p>
-        Prices are manually updated every hour from a secured API, as there are
-        no public endpoints available yet. Please pixels :(
+        Prices are manually updated, as there are no public endpoints available
+        yet. Please pixels :(
       </p>
       <p>
         Contact me on discord for feedbacks and suggestions :){" "}
