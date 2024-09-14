@@ -2,13 +2,13 @@ import React, { useState, useEffect } from "react";
 import { CategoryType, PricesType, TierType } from "./types";
 
 interface TableProps {
-  categories_: CategoryType[];
-  prices_: PricesType;
+  craftings: CategoryType[];
+  market: any;
 }
 
-const Table: React.FC<TableProps> = ({ categories_, prices_ }) => {
-  const [categories, setCategories] = useState<CategoryType[]>(categories_);
-  const [prices, setPrices] = useState<PricesType>(prices_);
+const Table: React.FC<TableProps> = ({ craftings, market }) => {
+  const [categories, setCategories] = useState<CategoryType[]>(craftings);
+  //   const [prices, setPrices] = useState<PricesType>(prices_);
 
   useEffect(() => {
     calculatePrices();
@@ -30,7 +30,7 @@ const Table: React.FC<TableProps> = ({ categories_, prices_ }) => {
 
         tier.Items.forEach((item) => {
           item.totalQuantity = tier.Multiplier * item.Quantity;
-          item.Price = priceMapping[item.id] ?? prices?.[item.id]?.coins ?? 0;
+          item.Price = priceMapping[item.id] ?? market?.prices?.[item.id] ?? 0;
           item.totalPrice = item.Price * item.totalQuantity;
           tierPrice += item.Price * item.Quantity;
         });
@@ -105,6 +105,7 @@ const Table: React.FC<TableProps> = ({ categories_, prices_ }) => {
                       <th>Name</th>
                       <th>Current Price</th>
                       <th>Total Quantity</th>
+                      {/* <th>Market Quantity</th> */}
                       <th>Total Price</th>
                     </tr>
                   </thead>
@@ -123,6 +124,7 @@ const Table: React.FC<TableProps> = ({ categories_, prices_ }) => {
                         <td>{item.Name}</td>
                         <td>{item.Price}</td>
                         <td>{item.totalQuantity}</td>
+                        {/* <td>{market?.counts?.[item.id]}</td> */}
                         <td>{item.totalPrice}</td>
                       </tr>
                     ))}
