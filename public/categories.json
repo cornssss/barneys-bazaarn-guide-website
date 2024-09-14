@@ -656,152 +656,6 @@
     ]
   },
   {
-    "Name": "Mining",
-    "Color": "#af8c5f",
-    "Tiers": [
-      {
-        "Tier": 1,
-        "Points": 1,
-        "Multiplier": 1,
-        "Price": 0,
-        "PriceOverPoints": 0,
-        "Items": [
-          {
-            "id": "itm_basebox",
-            "Name": "Base Box",
-            "Quantity": 1,
-            "Price": 0,
-            "totalQuantity": 0,
-            "totalPrice": 0
-          },
-          {
-            "id": "itm_roughstone_01",
-            "Name": "Clay Matrix",
-            "Quantity": 99,
-            "Price": 0,
-            "totalQuantity": 0,
-            "totalPrice": 0
-          },
-          {
-            "id": "itm_metalore_01",
-            "Name": "Copperite Ore",
-            "Quantity": 29,
-            "Price": 0,
-            "totalQuantity": 0,
-            "totalPrice": 0
-          }
-        ]
-      },
-      {
-        "Tier": 2,
-        "Points": 2,
-        "Multiplier": 1,
-        "Price": 0,
-        "PriceOverPoints": 0,
-        "Items": [
-          {
-            "id": "itm_tier1box",
-            "Name": "Tier 1 Box",
-            "Quantity": 1,
-            "Price": 0,
-            "totalQuantity": 0,
-            "totalPrice": 0
-          },
-          {
-            "id": "itm_metalore_02",
-            "Name": "Bronzenite Ore",
-            "Quantity": 99,
-            "Price": 0,
-            "totalQuantity": 0,
-            "totalPrice": 0
-          },
-          {
-            "id": "itm_roughstone_02",
-            "Name": "Marbleite Matrix",
-            "Quantity": 99,
-            "Price": 0,
-            "totalQuantity": 0,
-            "totalPrice": 0
-          },
-          {
-            "id": "itm_mine_kit_02",
-            "Name": "Improved Mine Kit",
-            "Quantity": 2,
-            "Price": 0,
-            "totalQuantity": 0,
-            "totalPrice": 0
-          }
-        ]
-      },
-      {
-        "Tier": 3,
-        "Points": 4,
-        "Multiplier": 1,
-        "Price": 0,
-        "PriceOverPoints": 0,
-        "Items": [
-          {
-            "id": "itm_tier2box",
-            "Name": "Tier 2 Box",
-            "Quantity": 1,
-            "Price": 0,
-            "totalQuantity": 0,
-            "totalPrice": 0
-          },
-          {
-            "id": "itm_metalore_03",
-            "Name": "Irontite Ore",
-            "Quantity": 21,
-            "Price": 0,
-            "totalQuantity": 0,
-            "totalPrice": 0
-          },
-          {
-            "id": "itm_roughstone_03",
-            "Name": "Bedrock Matrix",
-            "Quantity": 21,
-            "Price": 0,
-            "totalQuantity": 0,
-            "totalPrice": 0
-          }
-        ]
-      },
-      {
-        "Tier": 4,
-        "Points": 8,
-        "Multiplier": 1,
-        "Price": 0,
-        "PriceOverPoints": 0,
-        "Items": [
-          {
-            "id": "itm_tier3box",
-            "Name": "Tier 3 Box",
-            "Quantity": 1,
-            "Price": 0,
-            "totalQuantity": 0,
-            "totalPrice": 0
-          },
-          {
-            "id": "itm_metalore_04",
-            "Name": "Adamaxium Ore",
-            "Quantity": 36,
-            "Price": 0,
-            "totalQuantity": 0,
-            "totalPrice": 0
-          },
-          {
-            "id": "itm_roughstone_04",
-            "Name": "Claricite Matrix",
-            "Quantity": 36,
-            "Price": 0,
-            "totalQuantity": 0,
-            "totalPrice": 0
-          }
-        ]
-      }
-    ]
-  },
-  {
     "Name": "Forestry",
     "Color": "#64b559",
     "Tiers": [
@@ -940,8 +794,8 @@
     ]
   },
   {
-    "Name": "Wood Working",
-    "Color": "#d0b651",
+    "Name": "Metal Working",
+    "Color": "#cbdfeb",
     "Tiers": [
       {
         "Tier": 1,
@@ -959,17 +813,17 @@
             "totalPrice": 0
           },
           {
-            "id": "itm_woodplank_01",
-            "Name": "Whittlewood Plank",
-            "Quantity": 3,
+            "id": "itm_metalbar_01",
+            "Name": "Copperite Bar",
+            "Quantity": 4,
             "Price": 0,
             "totalQuantity": 0,
             "totalPrice": 0
           },
           {
-            "id": "itm_tree_01",
-            "Name": "Whittlewood Tree",
-            "Quantity": 3,
+            "id": "itm_metalworking_kit_01",
+            "Name": "Basic Metalworking Kit",
+            "Quantity": 1,
             "Price": 0,
             "totalQuantity": 0,
             "totalPrice": 0
@@ -992,16 +846,146 @@
             "totalPrice": 0
           },
           {
-            "id": "itm_woodplank_02",
-            "Name": "Craftbark Plank",
-            "Quantity": 2,
+            "id": "itm_metalbar_02",
+            "Name": "Bronzenite Bar",
+            "Quantity": 3,
             "Price": 0,
             "totalQuantity": 0,
             "totalPrice": 0
           },
           {
-            "id": "itm_tree_02",
-            "Name": "Craftbark Tree",
+            "id": "itm_metalworking_kit_02",
+            "Name": "Improved Metalworking Kit",
+            "Quantity": 1,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          }
+        ]
+      },
+      {
+        "Tier": 3,
+        "Points": 4,
+        "Multiplier": 1,
+        "Price": 0,
+        "PriceOverPoints": 0,
+        "Items": [
+          {
+            "id": "itm_tier2box",
+            "Name": "Tier 2 Box",
+            "Quantity": 1,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_metalbar_03",
+            "Name": "Irontite Bar",
+            "Quantity": 2,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          }
+        ]
+      },
+      {
+        "Tier": 4,
+        "Points": 8,
+        "Multiplier": 1,
+        "Price": 0,
+        "PriceOverPoints": 0,
+        "Items": [
+          {
+            "id": "itm_tier3box",
+            "Name": "Tier 3 Box",
+            "Quantity": 1,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_metalbar_04",
+            "Name": "Adamaxium Bar",
+            "Quantity": 6,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Mining",
+    "Color": "#af8c5f",
+    "Tiers": [
+      {
+        "Tier": 1,
+        "Points": 1,
+        "Multiplier": 1,
+        "Price": 0,
+        "PriceOverPoints": 0,
+        "Items": [
+          {
+            "id": "itm_basebox",
+            "Name": "Base Box",
+            "Quantity": 1,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_roughstone_01",
+            "Name": "Clay Matrix",
+            "Quantity": 99,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_metalore_01",
+            "Name": "Copperite Ore",
+            "Quantity": 29,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          }
+        ]
+      },
+      {
+        "Tier": 2,
+        "Points": 2,
+        "Multiplier": 1,
+        "Price": 0,
+        "PriceOverPoints": 0,
+        "Items": [
+          {
+            "id": "itm_tier1box",
+            "Name": "Tier 1 Box",
+            "Quantity": 1,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_metalore_02",
+            "Name": "Bronzenite Ore",
+            "Quantity": 99,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_roughstone_02",
+            "Name": "Marbleite Matrix",
+            "Quantity": 99,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_mine_kit_02",
+            "Name": "Improved Mine Kit",
             "Quantity": 2,
             "Price": 0,
             "totalQuantity": 0,
@@ -1025,9 +1009,17 @@
             "totalPrice": 0
           },
           {
-            "id": "itm_woodplank_03",
-            "Name": "Sawstump Plank",
-            "Quantity": 5,
+            "id": "itm_metalore_03",
+            "Name": "Irontite Ore",
+            "Quantity": 21,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_roughstone_03",
+            "Name": "Bedrock Matrix",
+            "Quantity": 21,
             "Price": 0,
             "totalQuantity": 0,
             "totalPrice": 0
@@ -1050,9 +1042,17 @@
             "totalPrice": 0
           },
           {
-            "id": "itm_woodplank_04",
-            "Name": "Borebranch Plank",
-            "Quantity": 9,
+            "id": "itm_metalore_04",
+            "Name": "Adamaxium Ore",
+            "Quantity": 36,
+            "Price": 0,
+            "totalQuantity": 0,
+            "totalPrice": 0
+          },
+          {
+            "id": "itm_roughstone_04",
+            "Name": "Claricite Matrix",
+            "Quantity": 36,
             "Price": 0,
             "totalQuantity": 0,
             "totalPrice": 0
@@ -1200,8 +1200,8 @@
     ]
   },
   {
-    "Name": "Metal Working",
-    "Color": "#cbdfeb",
+    "Name": "Wood Working",
+    "Color": "#d0b651",
     "Tiers": [
       {
         "Tier": 1,
@@ -1219,17 +1219,17 @@
             "totalPrice": 0
           },
           {
-            "id": "itm_metalbar_01",
-            "Name": "Copperite Bar",
-            "Quantity": 4,
+            "id": "itm_woodplank_01",
+            "Name": "Whittlewood Plank",
+            "Quantity": 3,
             "Price": 0,
             "totalQuantity": 0,
             "totalPrice": 0
           },
           {
-            "id": "itm_metalworking_kit_01",
-            "Name": "Basic Metalworking Kit",
-            "Quantity": 1,
+            "id": "itm_tree_01",
+            "Name": "Whittlewood Tree",
+            "Quantity": 3,
             "Price": 0,
             "totalQuantity": 0,
             "totalPrice": 0
@@ -1252,17 +1252,17 @@
             "totalPrice": 0
           },
           {
-            "id": "itm_metalbar_02",
-            "Name": "Bronzenite Bar",
-            "Quantity": 3,
+            "id": "itm_woodplank_02",
+            "Name": "Craftbark Plank",
+            "Quantity": 2,
             "Price": 0,
             "totalQuantity": 0,
             "totalPrice": 0
           },
           {
-            "id": "itm_metalworking_kit_02",
-            "Name": "Improved Metalworking Kit",
-            "Quantity": 1,
+            "id": "itm_tree_02",
+            "Name": "Craftbark Tree",
+            "Quantity": 2,
             "Price": 0,
             "totalQuantity": 0,
             "totalPrice": 0
@@ -1285,9 +1285,9 @@
             "totalPrice": 0
           },
           {
-            "id": "itm_metalbar_03",
-            "Name": "Irontite Bar",
-            "Quantity": 2,
+            "id": "itm_woodplank_03",
+            "Name": "Sawstump Plank",
+            "Quantity": 5,
             "Price": 0,
             "totalQuantity": 0,
             "totalPrice": 0
@@ -1310,9 +1310,9 @@
             "totalPrice": 0
           },
           {
-            "id": "itm_metalbar_04",
-            "Name": "Adamaxium Bar",
-            "Quantity": 6,
+            "id": "itm_woodplank_04",
+            "Name": "Borebranch Plank",
+            "Quantity": 9,
             "Price": 0,
             "totalQuantity": 0,
             "totalPrice": 0
