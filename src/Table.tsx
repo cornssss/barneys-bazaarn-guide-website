@@ -115,8 +115,8 @@ const Table: React.FC<TableProps> = ({ categories_, prices_ }) => {
                           <img
                             src={item.Icon}
                             style={{
-                              width: 20,
-                              height: 20,
+                              width: 30,
+                              height: 30,
                             }}
                           />
                         </td>

@@ -17,7 +17,7 @@
             "Price": 0,
             "totalQuantity": 0,
             "totalPrice": 0,
-            "Icon": "icons/basebox.png"
+            "Icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_bazzarn_box/b2706bdf-829a-46c6-8c7b-204e706bae0a.png"
           },
           {
             "id": "itm_egg",
@@ -62,7 +62,7 @@
             "Price": 0,
             "totalQuantity": 0,
             "totalPrice": 0,
-            "Icon": "zzzz"
+            "Icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_bazzarn_box_29/5dc47a13-359e-4e28-977f-89a1b78def83.png"
           },
           {
             "id": "itm_beeswax",
@@ -107,7 +107,7 @@
             "Price": 0,
             "totalQuantity": 0,
             "totalPrice": 0,
-            "Icon": "zzzz"
+            "Icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_bazzarn_box_30/557cbb2c-b400-4532-83c5-bc805b012807.png"
           },
           {
             "id": "itm_eggsplosive",
@@ -152,7 +152,7 @@
             "Price": 0,
             "totalQuantity": 0,
             "totalPrice": 0,
-            "Icon": "zzzz"
+            "Icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_bazzarn_box_31/bc5fba47-74a5-43f5-adac-a9c1f57e26fc.png"
           },
           {
             "id": "itm_turd",
@@ -203,7 +203,7 @@
             "Price": 0,
             "totalQuantity": 0,
             "totalPrice": 0,
-            "Icon": "zzzz"
+            "Icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_bazzarn_box/b2706bdf-829a-46c6-8c7b-204e706bae0a.png"
           },
           {
             "id": "itm_popberrywine",
@@ -230,7 +230,7 @@
             "Price": 0,
             "totalQuantity": 0,
             "totalPrice": 0,
-            "Icon": "zzzz"
+            "Icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_bazzarn_box_33/3ad4ce85-3968-410e-8274-2973a257c233.png"
           },
           {
             "id": "itm_wintermint_whiskey",
@@ -257,7 +257,7 @@
             "Price": 0,
             "totalQuantity": 0,
             "totalPrice": 0,
-            "Icon": "zzzz"
+            "Icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_bazzarn_box_34/f76d19d6-66d6-41f0-96e2-9ac1cbb1c744.png"
           },
           {
             "id": "itm_tentacactus_tequila",
@@ -284,7 +284,7 @@
             "Price": 0,
             "totalQuantity": 0,
             "totalPrice": 0,
-            "Icon": "zzzz"
+            "Icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_bazzarn_box_35/8d1ca7b9-ceca-46d3-be2e-5475944a3f5a.png"
           },
           {
             "id": "itm_scarrotwine",
@@ -317,7 +317,7 @@
             "Price": 0,
             "totalQuantity": 0,
             "totalPrice": 0,
-            "Icon": "zzzz"
+            "Icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_bazzarn_box/b2706bdf-829a-46c6-8c7b-204e706bae0a.png"
           },
           {
             "id": "itm_jam_popberry",
@@ -371,7 +371,7 @@
             "Price": 0,
             "totalQuantity": 0,
             "totalPrice": 0,
-            "Icon": "zzzz"
+            "Icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_bazzarn_box_17/baa1bcf3-8377-4c5d-a6e1-6633ee502370.png"
           },
           {
             "id": "itm_coffeefruitjam",
@@ -416,7 +416,7 @@
             "Price": 0,
             "totalQuantity": 0,
             "totalPrice": 0,
-            "Icon": "zzzz"
+            "Icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_bazzarn_box_18/4da4b6ea-6c32-4d3d-9d0e-512120f7e810.png"
           },
           {
             "id": "itm_cubecumberrelish",
@@ -470,7 +470,7 @@
             "Price": 0,
             "totalQuantity": 0,
             "totalPrice": 0,
-            "Icon": "zzzz"
+            "Icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_bazzarn_box_19/996d2a17-a3c7-4cca-a861-0184e8de9a45.png"
           },
           {
             "id": "itm_butterberryjam",
@@ -521,7 +521,7 @@
             "Price": 0,
             "totalQuantity": 0,
             "totalPrice": 0,
-            "Icon": "zzzz"
+            "Icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_bazzarn_box/b2706bdf-829a-46c6-8c7b-204e706bae0a.png"
           },
           {
             "id": "itm_grainbow",
@@ -530,7 +530,7 @@
             "Price": 0,
             "totalQuantity": 0,
             "totalPrice": 0,
-            "Icon": "zzzz"
+            "Icon": "zzz"
           },
           {
             "id": "itm_grumpkinFruit",
@@ -575,7 +575,7 @@
             "Price": 0,
             "totalQuantity": 0,
             "totalPrice": 0,
-            "Icon": "zzzz"
+            "Icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_bazzarn_box_25/621bdedd-424d-49da-af42-71a79132c3d3.png"
           },
           {
             "id": "itm_muckchuck",
@@ -629,7 +629,7 @@
             "Price": 0,
             "totalQuantity": 0,
             "totalPrice": 0,
-            "Icon": "zzzz"
+            "Icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_bazzarn_box_26/e7e07e34-718e-4bcc-a94f-90dd3a93d438.png"
           },
           {
             "id": "itm_slothmato",
@@ -674,7 +674,7 @@
             "Price": 0,
             "totalQuantity": 0,
             "totalPrice": 0,
-            "Icon": "zzzz"
+            "Icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_bazzarn_box_27/afa2da08-51d1-4dd3-8dd3-fc9c91b4ff60.png"
           },
           {
             "id": "itm_scarrotFruit",
@@ -734,7 +734,7 @@
             "Price": 0,
             "totalQuantity": 0,
             "totalPrice": 0,
-            "Icon": "zzzz"
+            "Icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_bazzarn_box/b2706bdf-829a-46c6-8c7b-204e706bae0a.png"
           },
           {
             "id": "itm_woodlog_01",
@@ -770,7 +770,7 @@
             "Price": 0,
             "totalQuantity": 0,
             "totalPrice": 0,
-            "Icon": "zzzz"
+            "Icon": "zzz"
           },
           {
             "id": "itm_woodlog_02",
@@ -806,7 +806,7 @@
             "Price": 0,
             "totalQuantity": 0,
             "totalPrice": 0,
-            "Icon": "zzzz"
+            "Icon": "zzz"
           },
           {
             "id": "itm_woodlog_03",
@@ -884,7 +884,7 @@
             "Price": 0,
             "totalQuantity": 0,
             "totalPrice": 0,
-            "Icon": "zzzz"
+            "Icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_bazzarn_box/b2706bdf-829a-46c6-8c7b-204e706bae0a.png"
           },
           {
             "id": "itm_metalbar_01",
@@ -1016,7 +1016,7 @@
             "Price": 0,
             "totalQuantity": 0,
             "totalPrice": 0,
-            "Icon": "zzzz"
+            "Icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_bazzarn_box/b2706bdf-829a-46c6-8c7b-204e706bae0a.png"
           },
           {
             "id": "itm_roughstone_01",
@@ -1193,7 +1193,7 @@
             "Price": 0,
             "totalQuantity": 0,
             "totalPrice": 0,
-            "Icon": "zzzz"
+            "Icon": "https://d31ss916pli4td.cloudfront.net/uploadedAssets/i/itm_bazzarn_box/b2706bdf-829a-46c6-8c7b-204e706bae0a.png"
           }
         ]
       },
