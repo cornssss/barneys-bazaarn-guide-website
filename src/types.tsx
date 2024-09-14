@@ -1,5 +1,6 @@
 export interface CategoryType {
   Name: string;
+  Color: string;
   Tiers: TierType[];
 }
 

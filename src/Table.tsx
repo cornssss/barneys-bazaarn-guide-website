@@ -61,28 +61,12 @@ const Table: React.FC<TableProps> = ({ categories_, prices_ }) => {
     calculatePrices();
   };
 
-  // Generate a border color based on the category index or other property
-  const getBorderColor = (index: number) => {
-    const colors = [
-      "#6796d3",
-      "#af8c5f",
-      "#a6a6a6",
-      "#d0b651",
-      "#5b5b5b",
-      "#9f6f8e",
-      "#cbdfeb",
-      "#ffadbb",
-      "#64b559",
-    ];
-    return colors[index % colors.length];
-  };
-
   return (
     <div>
       {categories.map((category, index) => (
         <div key={index}>
           {category.Tiers.map((tier, tierIndex) => {
-            const borderColor = getBorderColor(index);
+            const borderColor = category.Color;
 
             return (
               <div key={tierIndex}>
