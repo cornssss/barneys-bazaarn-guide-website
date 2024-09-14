@@ -30,8 +30,8 @@ function App() {
     <div className="container">
       <h1>Barney's Bazaarn Crafting Recipes v1.17</h1>
       <p>
-        Prices are updated manually from secured API since there are no public
-        endpoints yet. Please pixels :(
+        Prices are manually updated every hour from a secured API, as there are
+        no public endpoints available yet. Please pixels :(
       </p>
       <p>
         Contact me on discord for feedback and suggestions :){" "}
