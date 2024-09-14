@@ -29,10 +29,14 @@ function App() {
   return (
     <div className="container">
       <h1>Barney's Bazaarn Crafting Recipes</h1>
-      <h3>
+      <p>
         Prices are updated manually from secured API since there are no public
         endpoints yet. Please pixels :(
-      </h3>
+      </p>
+      <p>
+        Contact me on discord for feedback and suggestions :){" "}
+        <span style={{ fontWeight: "bold", fontSize: 20 }}>mira.gg</span>
+      </p>
       <Table categories_={categories} prices_={prices} />
     </div>
   );
