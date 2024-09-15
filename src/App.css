@@ -1,14 +1,14 @@
 /* General styles for the container */
 body {
-  background-color: #0f0f0f; /* Dark background */
+  background-color: #091e42; /* Dark background */
 }
 
 .container {
   margin: 0 auto;
   padding: 20px;
   max-width: 1200px; /* Adjust the max-width as needed */
-  background-color: #0f0f0f; /* Dark background */
-  color: #e0e0e0; /* Light text color */
+  background-color: #172b4d; /* Dark background */
+  color: #b3b9c4; /* Light text color */
 }
 
 /* Table styles */
@@ -41,16 +41,16 @@ td:not(:first-child) {
 
 /* Style for table rows */
 th {
-  background-color: #3e3e3e; /* Darker header background */
+  background-color: #2c3e5d; /* Darker header background */
   color: #c0c0c0; /* Light header text */
 }
 
 tr:nth-child(even) {
-  background-color: #3a3a3a; /* Slightly darker row background */
+  background-color: #2c3e5d; /* Slightly darker row background */
 }
 
 tr:hover {
-  background-color: #555; /* Hover effect for rows */
+  background-color: #44546f; /* Hover effect for rows */
 }
 
 /* Responsive styling */
@@ -70,12 +70,12 @@ tr:hover {
 /* Multiplier input styles */
 .multiplier-input {
   padding: 8px;
-  border: 1px solid #555; /* Dark border */
+  border: 1px solid #2c3e5d; /* Dark border */
   border-radius: 4px;
   width: 100px;
   font-size: 16px;
   margin-right: 10px;
   margin-bottom: 10px;
-  background-color: #444; /* Darker input background */
+  background-color: #172b4d; /* Darker input background */
   color: #fff; /* Light text color */
 }
