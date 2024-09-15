@@ -16,8 +16,8 @@ function App() {
       .then((response) => response.json())
       .catch((error) => console.error("Error fetching categories:", error));
 
-    // const fetchDynamicPrices = fetch(api + Math.floor(Date.now() / 1000))/
-    const fetchDynamicPrices = fetch("/market.json")
+    const fetchDynamicPrices = fetch(api + Math.floor(Date.now() / 1000))
+      // const fetchDynamicPrices = fetch("/market.json")
       .then((response) => response.json())
       .catch((error) => console.error("Error fetching dynamic prices:", error));
 

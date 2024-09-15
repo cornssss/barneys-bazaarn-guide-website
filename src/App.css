@@ -1,13 +1,13 @@
 /* General styles for the container */
 body {
-  background-color: #2e2e2e; /* Dark background */
+  background-color: #0f0f0f; /* Dark background */
 }
 
 .container {
   margin: 0 auto;
   padding: 20px;
   max-width: 1200px; /* Adjust the max-width as needed */
-  background-color: #2e2e2e; /* Dark background */
+  background-color: #0f0f0f; /* Dark background */
   color: #e0e0e0; /* Light text color */
 }
 
