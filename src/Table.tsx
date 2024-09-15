@@ -129,14 +129,43 @@ const Table: React.FC<TableProps> = ({ craftings, market }) => {
                       </tr>
                     ))}
                     <tr>
-                      <th colSpan={3}> </th>
-                      <th>Overall Price</th>
-                      <th>{tier.Price * tier.Multiplier}</th>
+                      <td colSpan={3}> </td>
+                      <td
+                        style={{
+                          textTransform: "uppercase",
+                          fontWeight: "bold",
+                        }}
+                      >
+                        Overall Price
+                      </td>
+                      <td
+                        style={{
+                          textTransform: "uppercase",
+                          fontWeight: "bold",
+                        }}
+                      >
+                        {tier.Price * tier.Multiplier}
+                      </td>
                     </tr>
                     <tr>
-                      <th colSpan={3}> </th>
-                      <th colSpan={1}>Tier Price / Points</th>
-                      <th>{tier.Price / tier.Points}</th>
+                      <td colSpan={3}> </td>
+                      <td
+                        colSpan={1}
+                        style={{
+                          textTransform: "uppercase",
+                          fontWeight: "bold",
+                        }}
+                      >
+                        Tier Price / Points
+                      </td>
+                      <td
+                        style={{
+                          textTransform: "uppercase",
+                          fontWeight: "bold",
+                        }}
+                      >
+                        {tier.Price / tier.Points}
+                      </td>
                     </tr>
                   </tbody>
                 </table>

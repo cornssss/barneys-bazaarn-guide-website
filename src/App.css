@@ -41,8 +41,8 @@ td:not(:first-child) {
 
 /* Style for table rows */
 th {
-  background-color: #2c3e5d; /* Darker header background */
-  color: #c0c0c0; /* Light header text */
+  /* background-color: #2c3e5d; Darker header background */
+  color: rgb(9, 30, 66); /* Light header text */
 }
 
 tr:nth-child(even) {
