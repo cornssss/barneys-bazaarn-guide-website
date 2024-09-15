@@ -38,7 +38,7 @@ function App() {
 
   return (
     <div className="container">
-      <h1>Barney's Bazaarn Crafting Recipes v1.20</h1>
+      <h1>Barney's Bazaarn Crafting Recipes v1.23</h1>
       <p>
         Prices are manually updated, as there are no public endpoints available
         yet. Please pixels :(
