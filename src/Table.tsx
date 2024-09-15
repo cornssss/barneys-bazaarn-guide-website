@@ -61,12 +61,24 @@ const Table: React.FC<TableProps> = ({ craftings, market }) => {
     calculatePrices();
   };
 
+  const colors = [
+    "#e68a96",
+    "#858585",
+    "#8d5873",
+    "#4d77a7",
+    "#539748",
+    "#a5b8c6",
+    "#91764c",
+    "#464646",
+    "#ab943e",
+  ];
+
   return (
     <div>
       {categories.map((category, index) => (
         <div key={index}>
           {category.Tiers.map((tier, tierIndex) => {
-            const borderColor = category.Color;
+            const borderColor = colors[index];
 
             return (
               <div key={tierIndex}>
