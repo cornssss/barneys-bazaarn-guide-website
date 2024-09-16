@@ -41,8 +41,8 @@ function App() {
       <h1>Barney's Bazaarn Crafting Recipes v1.23.1</h1>
       <p>
         Prices are manually updated, as there are no public endpoints available
-        yet. Last Updated: Last Updated:{" "}
-        {new Date(market.lastUpdated * 1000).toLocaleString("en-PH", {
+        yet. Last Updated:{" "}
+        {new Date(market.lastUpdated).toLocaleString("en-PH", {
           timeZone: "Asia/Manila",
         })}
       </p>
