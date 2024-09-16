@@ -41,8 +41,10 @@ function App() {
       <h1>Barney's Bazaarn Crafting Recipes v1.23.1</h1>
       <p>
         Prices are manually updated, as there are no public endpoints available
-        yet. Please pixels :(
+        yet. Last Updated:{" "}
+        {new Date(market.lastUpdated * 1000).toLocaleString()}
       </p>
+
       <p>
         Contact me on discord for feedbacks and suggestions :){" "}
         <span style={{ fontWeight: "bold", fontSize: 20 }}>mira.gg</span>
