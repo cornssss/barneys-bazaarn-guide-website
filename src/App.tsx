@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import "./App.css";
-import { CategoryType, PricesType } from "./types";
+import { CategoryType, MarketType, PricesType } from "./types";
 import Table from "./Table";
 
 const api =
@@ -8,7 +8,7 @@ const api =
 
 function App() {
   const [categories, setCategories] = useState<CategoryType[] | null>(null);
-  const [market, setMarket] = useState(null);
+  const [market, setMarket] = useState<MarketType | null>(null);
 
   useEffect(() => {
     // Fetch categories and prices simultaneously
@@ -42,7 +42,7 @@ function App() {
       <p>
         Prices are manually updated, as there are no public endpoints available
         yet. Last Updated:{" "}
-        {new Date(market.lastUpdated * 1000).toLocaleString()}
+        {new Date(market?.lastUpdated * 1000).toLocaleString()}
       </p>
 
       <p>

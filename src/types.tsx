@@ -29,3 +29,6 @@ export interface PricesType {
     pixel: number;
   };
 }
+export interface MarketType {
+  lastUpdated: number; // Define the type for lastUpdated as a number (Unix timestamp)
+}
